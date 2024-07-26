@@ -63,8 +63,8 @@ All the datasets were used from kaggle.
 
 ## Links for Python Notebooks used for model creation
 
-- [Diabetes Notebook](https://github.com/fazaopalkadamba/Multi_Disease_Predictor/blob/master/Python%20Notebooks/Diabetes_Prediction.ipynb)
-- [Breast Cancer Notebook](https://github.com/fazaopalkadamba/Multi_Disease_Predictor/blob/master/Python%20Notebooks/Cancer_Prediction.ipynb)
-- [Heart Disease Notebook](https://github.com/fazaopalkadamba/Multi_Disease_Predictor/blob/master/Python%20Notebooks/Heart_Disease_Prediction.ipynb)
-- [Kidney Disease Notebook](https://github.com/fazaopalkadamba/Multi_Disease_Predictor/blob/master/Python%20Notebooks/Kidney_Disease_Prediction.ipynb)
-- [Liver Disease Notebook](https://github.com/fazaopalkadamba/Multi_Disease_Predictor/blob/master/Python%20Notebooks/Liver_Disease_Prediction.ipynb)
+- [Diabetes Notebook](https://github.com/fazaulfath/SymptoSphere/blob/main/Python%20Notebooks/Diabetes_Prediction.ipynb)
+- [Breast Cancer Notebook](https://github.com/fazaulfath/SymptoSphere/blob/main/Python%20Notebooks/Cancer_Prediction.ipynb)
+- [Heart Disease Notebook](https://github.com/fazaulfath/SymptoSphere/blob/main/Python%20Notebooks/Heart_Disease_Prediction.ipynb)
+- [Kidney Disease Notebook](https://github.com/fazaulfath/SymptoSphere/blob/main/Python%20Notebooks/Kidney_Disease_Prediction.ipynb)
+- [Liver Disease Notebook](https://github.com/fazaulfath/SymptoSphere/blob/main/Python%20Notebooks/Liver_Disease_Prediction.ipynb)
